@@ -1,0 +1,1005 @@
+EventID,Timestamp,Provider,User,Message
+5000,2025-04-08 11:11:53.463491,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:08.095726,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:08.974493,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:09.977106,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:10.837908,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:21.762825,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:32.952291,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:33.889715,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:35.054012,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:36.237865,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:37.308886,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:38.017738,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:49.481743,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:50.500647,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:51.575483,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:52.466736,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:53.464682,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:54.464911,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:55.527357,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:56.445330,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:57.723356,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:12:58.950140,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:00.206656,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:01.225945,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:02.237398,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:03.319714,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:04.239346,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:05.115067,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:06.066776,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:06.859680,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:07.764587,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:08.632277,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:09.434677,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:12.524170,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:16.387817,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:17.609594,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:18.579922,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:19.739424,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:20.829218,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:21.846823,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:39.558737,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:40.629221,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:41.687038,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:42.906443,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:13:59.960791,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:01.086079,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:01.994678,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:02.948921,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:03.986134,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:05.039030,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:05.912901,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:06.924978,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:07.910706,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:08.733114,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:09.861235,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:10.732578,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:11.950754,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:13.217459,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:14.476309,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:15.637611,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:16.738304,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:17.780144,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:18.835751,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:19.888407,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:20.828495,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:27.457830,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:28.490740,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:29.569069,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:30.608246,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:31.548088,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:32.933958,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:34.052078,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:35.080479,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:36.148840,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:37.183475,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:38.108906,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:39.177433,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:40.199335,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:41.523594,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:42.887581,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:44.170952,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:45.137711,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:50.287964,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:51.277000,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:52.260225,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:53.416605,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:54.397861,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:55.381996,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:56.303534,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:57.199797,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:58.120890,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:14:59.049150,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:15:00.082937,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:15:01.035164,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:15:01.841087,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:15:02.769775,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:15:53.453156,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:05.847181,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:15.150766,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:44.883123,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:54.100504,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:57.346954,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:58.997595,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:16:59.914270,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:01.032555,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:02.216585,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:03.380898,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:04.268490,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:05.411217,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:13.365124,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:27.728449,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:29.592930,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:32.516821,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:34.141731,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:36.104464,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:46.687700,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:48.199024,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:50.061069,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:52.342579,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:54.310501,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:56.741257,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:17:59.102928,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:00.669378,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:01.633818,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:02.998684,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:04.844757,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:06.039621,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:07.114429,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:08.568443,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:09.730093,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:10.770582,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:11.876810,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:12.932863,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:14.096197,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:15.871502,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:17.700603,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:20.185127,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:34.176067,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:35.586498,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:37.287045,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:38.288752,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:39.346558,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:40.147243,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:41.115484,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:42.198786,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:43.412603,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:44.358576,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:45.523609,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:47.045986,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:48.186810,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:49.621815,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:51.411869,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:52.402870,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:53.628992,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:55.111521,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:56.606796,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:18:58.242903,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:17.827482,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:19.202639,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:20.133390,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:20.989763,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:21.791260,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:22.459009,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:23.627029,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:24.521315,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:34.548761,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:35.325939,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:36.108965,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:36.997234,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:37.817255,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:38.584620,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:39.664093,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:40.403923,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:41.382624,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:42.221375,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:43.241314,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:44.106915,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:45.108887,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:46.249449,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:47.216633,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:48.215240,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:51.510328,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:19:52.654768,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:01.554413,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:02.305479,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:03.084736,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:03.795855,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:04.492004,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:05.212912,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:07.993835,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:08.761822,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:09.575670,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:10.345625,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:11.227621,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:11.832268,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:12.711163,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:13.501863,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:28.590635,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:29.828129,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:20:59.477966,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:21:00.929688,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:21:02.057642,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:21:03.125706,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:21:04.333441,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:21:48.938873,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:21:50.574886,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:13.859589,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:21.145645,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:22.368139,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:23.637478,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:25.047367,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:26.129992,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:28.470695,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:29.949848,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:31.020729,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:32.059938,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:33.296461,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:54.718403,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:55.888374,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:22:57.085640,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:23:01.650005,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:23:02.661373,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:23:03.949295,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:23:24.852203,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:23:33.820667,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:00.868790,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:02.087357,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:03.367155,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:04.609362,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:05.718740,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:13.072536,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:14.551405,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:15.625111,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:16.807228,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:17.882189,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:41.054970,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:42.153646,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:43.276035,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:25:44.412157,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:17.441051,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:18.706976,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:19.874081,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:21.125626,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:22.469770,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:23.836206,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:24.847179,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:26.094931,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:27.077980,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:28.268032,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:26:54.453043,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:22.345175,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:23.707581,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:28.233450,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:29.131956,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:30.249365,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:31.154743,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:27:43.587027,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:28:04.324770,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:28:21.340683,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:28:27.796480,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:28:28.761225,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:28:30.355598,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:28:31.394472,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:29:18.507799,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:29:19.715168,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:29:20.950487,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:29:28.872948,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:29:51.392916,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:30:13.810478,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:30:56.691534,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:32:14.653194,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:32:26.869564,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:04.574999,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:26.585835,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:29.217159,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:51.237047,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:54.033636,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:55.922432,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:33:57.536829,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:34:43.066359,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:35:08.096083,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:35:12.103407,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:35:16.559170,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:35:27.186804,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:35:47.054087,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:35:51.659710,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:36:01.064211,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:36:33.358568,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:36:56.615583,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:37:07.381163,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:37:08.588848,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:37:17.112745,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:38:02.026283,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:38:52.398371,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:38:53.745275,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:38:55.395844,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:39:12.390749,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:39:41.674284,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:39:55.624277,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:40:49.161877,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:40:50.829950,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:40:52.192966,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:40:54.037338,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:40:57.848295,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:41:38.548183,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:43:06.656385,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:44:38.866938,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:46:07.881313,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:46:42.654358,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-08 11:47:13.631599,Netwtw06,Unknown,"<string>\Device\NDMP18</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:43.927721,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:44.491713,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:45.517059,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:45.985731,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:46.766800,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:47.532211,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:48.157093,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:49.000647,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:50.922232,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:53.109270,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:53.546425,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:54.688395,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-11 17:30:56.406900,Netwtw06,Unknown,"<string>\Device\NDMP39</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:40:00.567627,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:40:01.778833,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:40:02.778482,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:40:23.652317,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:02.103603,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:27.734123,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:28.774096,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:31.373625,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:32.480131,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:33.366848,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:34.374729,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:35.289694,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:36.179785,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:37.144407,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:38.043373,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:47.849598,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:52.151821,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:53.157625,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:54.065990,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:54.940308,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:56.019016,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:57.122709,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:57.972263,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:41:58.952303,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:35.652403,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:36.554546,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:37.537300,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:38.400728,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:39.296022,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:40.155716,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:41.113834,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:42:42.092134,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:00.762730,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:01.667673,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:02.632275,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:03.464329,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:41.872946,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:47.638863,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:48.423029,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:49.420069,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:50.254715,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:51.264338,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:52.307909,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:53.223156,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:54.199663,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:55.102028,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:43:55.946531,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:44:12.577349,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:44:13.493753,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:44:14.397547,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:44:15.294884,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:44:56.730042,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:44:59.497738,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:45:00.420235,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:45:23.599007,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:45:24.404709,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:45:25.260782,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:45:26.135090,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:45:27.015635,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:50:36.681986,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:50:37.789127,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:01.366600,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:02.342077,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:03.302904,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:28.479717,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:29.447784,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:30.423359,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:31.343666,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:49.162148,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:50.374828,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 05:59:51.416567,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:10.569796,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:11.883173,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:13.085871,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:14.013239,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:15.225822,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:51.849049,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:53.119640,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:54.117405,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:55.025574,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:56.020983,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:56.876183,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:00:57.987764,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:01:14.314631,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:01:15.346884,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:01:16.301653,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:01:38.710514,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:01:39.519661,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:01:40.663425,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:02:03.973143,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:02:04.910608,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:02:05.915691,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:02:27.178665,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:02:28.198771,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:14.388039,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:15.394215,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:16.378563,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:18.953192,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:35.265390,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:36.060493,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:37.032286,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:54.149509,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:55.597261,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:56.474472,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:57.464928,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:03:58.390120,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:17.665541,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:18.995787,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:19.889166,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:20.661688,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:21.496059,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:42.771408,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:43.668406,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:44.612328,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:45.541624,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:04:46.415545,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:05:04.363274,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:05:27.603453,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:05:28.466936,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:05:29.532320,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:04.940720,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:09.963472,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:28.236240,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:29.585720,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:32.605867,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:36.240583,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:06:37.169424,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:22.207144,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:23.769041,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:24.653666,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:25.479322,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:26.467232,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:27.363123,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:32.011818,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:43.713324,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:44.533846,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:45.538900,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:46.376822,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:47.310503,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:48.240816,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:07:49.208090,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:06.818604,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:07.712591,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:08.693266,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:24.677172,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:25.738840,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:26.545229,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:27.315641,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:28.242296,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:28.916315,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:29.937254,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:30.988623,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:31.986208,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:08:32.746416,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:08.458252,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:09.347099,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:11.582314,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:12.468933,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:13.484140,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:15.724045,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:16.537626,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:38.852423,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:09:39.675167,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:10:21.393213,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:10:22.282230,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:10:41.772362,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:10:42.708330,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:10:43.528877,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:10:44.355095,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:11:06.930605,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:11:08.067730,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:11:08.924944,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:11:25.887726,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:11:27.967411,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:13:29.844492,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:15:27.975601,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:16:26.811920,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:16:28.110357,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
+5000,2025-04-24 06:16:58.647779,Netwtw06,Unknown,"<string>\Device\NDMP38</string>
+<string>Intel(R) Dual Band Wireless-AC 8260</string>"
